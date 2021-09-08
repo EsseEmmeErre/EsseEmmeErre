@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EsseEmmeErre from Italy! :-D
-- 👀 I’m interested in BASIC programming on AmigaOS and Windows
+- 👀 I’m interested in BASIC programming on AmigaOS and Windows.
 - 🌱 I’m currently learning C++ with no significative result.
 - 💞️ I’m looking to collaborate on AMOSPro and Blitz BASIC programming.
-- 📫 How to reach me via e-mail smregattin@fastwebnet.it
+- 📫 How to reach me via e-mail: type to smregattin@fastwebnet.it
 
 <!---
 EsseEmmeErre/EsseEmmeErre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
